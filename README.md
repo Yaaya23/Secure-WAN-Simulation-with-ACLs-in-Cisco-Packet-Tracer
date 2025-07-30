@@ -15,7 +15,7 @@
 
 ## 📸 Screenshots
 https://github.com/Yaaya23/Secure-WAN-Simulation-with-ACLs-in-Cisco-Packet-Tracer/blob/94b49c6dc4dc12df6bd7437c22108544ec739715/Cisco%20Project%201%20img%201.jpg
-
+https://github.com/Yaaya23/Secure-WAN-Simulation-with-ACLs-in-Cisco-Packet-Tracer/blob/a696a983741d65394341ab88dce73931f6c0e59e/http%20connection.jpg
 
 
 ## 📂 File
