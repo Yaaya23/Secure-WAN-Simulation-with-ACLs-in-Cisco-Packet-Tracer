@@ -1,12 +1,22 @@
 # Secure-WAN-Simulation-with-ACLs-in-Cisco-Packet-Tracer
-🔐 This project demonstrates how to build a secure Wide Area Network (WAN) using Cisco Packet Tracer.
+🔐 This project demonstrates how to build a secure Wide Area Network (WAN) using Cisco Packet Tracer. 
 
 ## 🧱 Project Overview
-
 - Simulates communication between Ghana and Cape Verde branch offices
 - CIDR-based IP addressing scheme
 - Access Control Lists (ACLs) to allow only HTTP and ICMP traffic
 - Ensures restricted, secure communication between endpoints
+
+Devices: - 2 Routers (1 per branch) 
+- 2 Switches (1 per branch)  
+- 8 PCs (4 per branch)
+- 1 Server for the Ghana office used to establish http connection with the Cape Verde Office
+   
+IP Addressing: - Ghana LAN: 192.168.0.0/29 
+-Cape Verde LAN: 192.168.0.8/29 
+WAN Link: 192.168.1.0/30 
+Security: - ACLs allow only HTTP (port 80) and ICMP (ping) - All other traffic is denied 
+Testing: - Verified connectivity with ping and web browser
 
 ## 🛠 Tools Used
 
